@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability display_value="Public">8cbf260416155110f95d9cc27890b5ed</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-08-09 08:00:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>84bf2604c515511025a774f28603feee</sys_id>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>m2m_app_config_theme_84bf2604c515511025a774f28603feee</sys_update_name>
+        <theme display_value="Light Theme">00bf2604441551101fa593fe1efa18ee</theme>
+        <ux_app_configuration display_value="NeedIt Experience Config">73af260487155110ffaaca280cbb358e</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

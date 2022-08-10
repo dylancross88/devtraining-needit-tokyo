@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="NeedIt Experience">08bf2604691551108cb70069952065c2</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Landing Page">0cbf2604c3155110b956d4921358bee6</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-08-09 08:00:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>0cbf260491155110cd1302e2caa20ac4</sys_id>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_page_property_0cbf260491155110cd1302e2caa20ac4</sys_update_name>
+        <type>json</type>
+        <unique_name>x_58872_needit.08bf2604691551108cb70069952065c2.route.chrome_header.0cbf2604c3155110b956d4921358bee6</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=0cbf260491155110cd1302e2caa20ac4"/>
+</record_update>
